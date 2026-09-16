@@ -1,0 +1,18 @@
+{
+  "8741830546": {
+    "logado": true,
+    "personagem": true,
+    "dificuldade": "Clássico",
+    "nivel": 5,
+    "xp": 34,
+    "vida": 100,
+    "combate": null,
+    "inventario": {
+      "madeira": 2,
+      "pedra": 10,
+      "ferro": 3,
+      "picareta": 1,
+      "espada": 1
+    }
+  }
+}
