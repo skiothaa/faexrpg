@@ -1,5 +1,6 @@
 <img width="1506" height="704" alt="image" src="https://github.com/user-attachments/assets/c47f94ac-7f9b-49aa-87c2-20b9e67e4e6d" />
-# FAEX RPG - Bot do Telegram
+
+# FAEX RPG - Bot Jogável do Telegram
 
 Um jogo de RPG interativo para o Telegram baseado em turnos, com persistência de dados de jogadores em arquivos JSON locais. O bot suporta múltiplos sistemas de dificuldades, coleta de recursos, fabricação de ferramentas/armas e combates contra monstros e chefes.
 
